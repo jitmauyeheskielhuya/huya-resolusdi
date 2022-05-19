@@ -4,3 +4,4 @@ RENCANA BELAJAR EKEL
 - Next Javascript
   *ES6
   *Framework Javascript
+ - belajar edit vidio
