@@ -4,8 +4,6 @@ RENCANA BELAJAR EKEL
 - Next Javascript
   * ES6
   * Framework Javascript
-    ^ View
+    ^ Anguler
     ^ React
 - PHP
-- belajar edit vidio
-- pyton
