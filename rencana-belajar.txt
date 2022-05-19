@@ -1,0 +1,4 @@
+RENCANA BELAJAR EKEL
+- Belajar Codeignaiter sampai paham/mengerti
+- Next belajar Laravel
+- Next Javascript
