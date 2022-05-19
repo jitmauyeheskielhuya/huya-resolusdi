@@ -2,6 +2,9 @@ RENCANA BELAJAR EKEL
 - Belajar Codeignaiter sampai paham/mengerti
 - Next belajar Laravel
 - Next Javascript
-  *ES6
-  *Framework Javascript
- - belajar edit vidio
+  * ES6
+  * Framework Javascript
+    ^ View
+- PHP
+- belajar edit vidio
+- pyton
